@@ -70,7 +70,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📧 Contact  
 **Abdelrahman Abozarifa**  
-- GitHub: [@abdelrahman-abozarifa04](https://github.com/Abdelrahman5ames)  
+- GitHub: (https://github.com/Abdelrahman5ames)  
 - Email: abdelrahmanahmedkhamiss@gmail.com  
 
 ## ⭐ Acknowledgements  
